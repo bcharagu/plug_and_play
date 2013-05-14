@@ -3,3 +3,5 @@ databases/
 errors/
 *.pyc
 *~
+models/db.py
+models/db.py
